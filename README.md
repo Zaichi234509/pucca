@@ -6,7 +6,6 @@ A playful Pucca-inspired coffee landing page featuring a themed hero section, ho
 ## Live preview
 
 - GitHub Pages: https://zaichi234509.github.io/pucca/
-- Branch preview: https://htmlpreview.github.io/?https://github.com/Zaichi234509/pucca/blob/arena/019f60b6-pucca/index.html
 
 ## What's included
 
